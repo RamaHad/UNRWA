@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IBiwDR9qU/6LcqzOOt9mfRZMx6SmU2WqOM/659MAE7Rh6cgVucB7Ib6owUBu2nSJZbpGbpZEFQbQNlhREoPlVQ==",
+  "dgSpecHash": "aCzwxWYCs8wT4arZ4xXA0i+yeP+BWMemofrYys/VLqZQDIu0w/Lc0QYCR72MRXqZwOLg4JCbIZ9GtpgFEu7GdQ==",
   "success": true,
-  "projectFilePath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Repo\\Repo.csproj",
+  "projectFilePath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Repo\\Repo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\العبه جي\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\العبه جي\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

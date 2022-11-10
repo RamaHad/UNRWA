@@ -17,3 +17,22 @@ E:\MyWorks\Back-End\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.dll
 E:\MyWorks\Back-End\UNRWAProgrmme\Repo\obj\Debug\net6.0\refint\Repo.dll
 E:\MyWorks\Back-End\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.pdb
 E:\MyWorks\Back-End\UNRWAProgrmme\Repo\obj\Debug\net6.0\ref\Repo.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\Repo.deps.json
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\Repo.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\Repo.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\BackEnd.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\Dto.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\IRepo.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\BackEnd.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\IRepo.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\bin\Debug\net6.0\Dto.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\refint\Repo.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\Repo.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Repo\obj\Debug\net6.0\ref\Repo.dll

@@ -10,3 +10,15 @@ E:\MyWorks\Back-End\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.dll
 E:\MyWorks\Back-End\UNRWAProgrmme\Dto\obj\Debug\net6.0\refint\Dto.dll
 E:\MyWorks\Back-End\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.pdb
 E:\MyWorks\Back-End\UNRWAProgrmme\Dto\obj\Debug\net6.0\ref\Dto.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\bin\Debug\net6.0\Dto.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\bin\Debug\net6.0\Dto.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\Dto.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\Dto\obj\Debug\net6.0\ref\Dto.dll

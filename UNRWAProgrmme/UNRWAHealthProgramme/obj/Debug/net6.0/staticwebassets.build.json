@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pCD0VeoAlSrEbOpVsu21pfRL5LkDF4DePoj8MjZrJSo=",
+  "Hash": "Sr7e2Lfnf+t5HyPxP+gLt0dRe9r1UwUY4HmJ9taCeXA=",
   "Source": "UNRWAHealthProgramme",
   "BasePath": "_content/UNRWAHealthProgramme",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UNRWAHealthProgramme\\wwwroot",
       "Source": "UNRWAHealthProgramme",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UNRWAHealthProgramme.styles.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UNRWAHealthProgramme.styles.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "UNRWAHealthProgramme.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UNRWAHealthProgramme.styles.css"
+      "OriginalItemSpec": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\UNRWAHealthProgramme.styles.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UNRWAHealthProgramme.bundle.scp.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UNRWAHealthProgramme.bundle.scp.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "UNRWAHealthProgramme.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UNRWAHealthProgramme.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\UNRWAHealthProgramme.bundle.scp.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\animate.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\browse medicine.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\browse medicine.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/browse medicine.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\browse medicine.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\colors.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\colors.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/colors.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\custom.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\custom.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\flaticon.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\flaticon.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/flaticon.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flaticon.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\Home\\inputValidationStyle.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\Home\\inputValidationStyle.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/Home/inputValidationStyle.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Home\\inputValidationStyle.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\HomeDoctor.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\HomeDoctor.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/HomeDoctor.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\HomeDoctor.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\mange appointment.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\mange appointment.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/mange appointment.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\mange appointment.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\naming.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\naming.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/naming.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\naming.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\prettyPhoto.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\prettyPhoto.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/prettyPhoto.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prettyPhoto.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\Queue.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\Queue.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/Queue.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Queue.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\responsive.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\searchStyle.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\searchStyle.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/searchStyle.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\searchStyle.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\stylemodel.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\stylemodel.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/stylemodel.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\stylemodel.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\versions.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\css\\versions.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "css/versions.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\versions.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\favicon.ico",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\11-6xrrjhpy3h6u0aa8kos9sw7fdjinofxmclf4g3s2j2v.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\11-6xrrjhpy3h6u0aa8kos9sw7fdjinofxmclf4g3s2j2v.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/11-6xrrjhpy3h6u0aa8kos9sw7fdjinofxmclf4g3s2j2v.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\11-6xrrjhpy3h6u0aa8kos9sw7fdjinofxmclf4g3s2j2v.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\1584350380036.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\1584350380036.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/1584350380036.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1584350380036.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\19_2017-636490298852202664-220.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\19_2017-636490298852202664-220.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/19_2017-636490298852202664-220.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\19_2017-636490298852202664-220.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about_03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about_03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/about_03.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about_03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about-img-01.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about-img-01.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/about-img-01.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img-01.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about-img-02.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about-img-02.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/about-img-02.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img-02.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about-img-03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\about-img-03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/about-img-03.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img-03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\ajax-loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\ajax-loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/ajax-loader.gif",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ajax-loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\apple-touch-icon.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\apple-touch-icon.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/apple-touch-icon.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\apple-touch-icon.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\bg.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\bg.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/bg.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\bg-testimonial.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\bg-testimonial.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/bg-testimonial.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg-testimonial.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\blog-img-01.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\blog-img-01.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/blog-img-01.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-01.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\blog-img-02.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\blog-img-02.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/blog-img-02.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-02.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\blog-img-03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\blog-img-03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/blog-img-03.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog-img-03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\clinic_01.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\clinic_01.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/clinic_01.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\clinic_01.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\clinic_02.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\clinic_02.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/clinic_02.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\clinic_02.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\clinic_03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\clinic_03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/clinic_03.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\clinic_03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor_01.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor_01.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/doctor_01.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\doctor_01.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor_02.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor_02.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/doctor_02.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\doctor_02.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor_03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor_03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/doctor_03.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\doctor_03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor-260nw-558136654.webp",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctor-260nw-558136654.webp",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/doctor-260nw-558136654.webp",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\doctor-260nw-558136654.webp"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctors_411.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\doctors_411.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/doctors_411.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\doctors_411.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\Doctors_For_Men-732x549-thumbnail-1-732x549.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\Doctors_For_Men-732x549-thumbnail-1-732x549.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/Doctors_For_Men-732x549-thumbnail-1-732x549.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Doctors_For_Men-732x549-thumbnail-1-732x549.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\favicon.ico",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\favicon.ico",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\footer-bg.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\footer-bg.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/footer-bg.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer-bg.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-01.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-01.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-01.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-01.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-02.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-02.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-02.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-02.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-03.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-04.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-04.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-04.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-04.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-05.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-05.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-05.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-05.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-06.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-06.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-06.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-06.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-07.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-07.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-07.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-07.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-08.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\gallery-08.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/gallery-08.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-08.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\img-1.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\img-1.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/img-1.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-1.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\img-2.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\img-2.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/img-2.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-2.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\img-3.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\img-3.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/img-3.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-3.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\index.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\index.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/index.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\index.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\index.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\index.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/index.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\index.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\loaders\\heart-loading2.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\loaders\\heart-loading2.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/loaders/heart-loading2.gif",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loaders\\heart-loading2.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\logo.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\menu-arrow.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\menu-arrow.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/menu-arrow.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu-arrow.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\news_article_10911_15011_1414740475.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\news_article_10911_15011_1414740475.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/news_article_10911_15011_1414740475.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_article_10911_15011_1414740475.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\phone-icon.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\phone-icon.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/phone-icon.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\phone-icon.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\pngtree-real-photos-of-hospital-medical-tools-image_1059403.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\pngtree-real-photos-of-hospital-medical-tools-image_1059403.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/pngtree-real-photos-of-hospital-medical-tools-image_1059403.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pngtree-real-photos-of-hospital-medical-tools-image_1059403.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\preloader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\preloader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/preloader.gif",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\preloader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\btnNext.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\btnNext.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_rounded/btnNext.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_rounded\\btnNext.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\btnPrevious.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\btnPrevious.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_rounded/btnPrevious.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_rounded\\btnPrevious.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\contentPattern.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\contentPattern.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_rounded/contentPattern.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_rounded\\contentPattern.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\default_thumbnail.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\default_thumbnail.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_rounded/default_thumbnail.gif",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_rounded\\default_thumbnail.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_rounded/loader.gif",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_rounded\\loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\sprite.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_rounded\\sprite.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_rounded/sprite.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_rounded\\sprite.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\btnNext.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\btnNext.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_square/btnNext.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_square\\btnNext.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\btnPrevious.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\btnPrevious.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_square/btnPrevious.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_square\\btnPrevious.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\contentPattern.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\contentPattern.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_square/contentPattern.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_square\\contentPattern.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\default_thumbnail.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\default_thumbnail.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_square/default_thumbnail.gif",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_square\\default_thumbnail.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_square/loader.gif",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_square\\loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\sprite.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\dark_square\\sprite.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/dark_square/sprite.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\dark_square\\sprite.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\default_thumb.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\default_thumb.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/default_thumb.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\default_thumb.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/loader.gif",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/sprite.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\sprite.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_next.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_next.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/sprite_next.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\sprite_next.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_prev.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_prev.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/sprite_prev.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\sprite_prev.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_x.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_x.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/sprite_x.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\sprite_x.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_y.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\default\\sprite_y.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/default/sprite_y.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\default\\sprite_y.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\btnNext.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\btnNext.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/btnNext.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\btnNext.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\btnPrevious.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\btnPrevious.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/btnPrevious.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\btnPrevious.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternBottom.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternBottom.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/contentPatternBottom.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\contentPatternBottom.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternLeft.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternLeft.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/contentPatternLeft.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\contentPatternLeft.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternRight.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternRight.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/contentPatternRight.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\contentPatternRight.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternTop.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\contentPatternTop.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/contentPatternTop.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\contentPatternTop.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\default_thumbnail.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\default_thumbnail.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/default_thumbnail.gif",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\default_thumbnail.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/loader.gif",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\sprite.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\facebook\\sprite.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/facebook/sprite.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\facebook\\sprite.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\btnNext.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\btnNext.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_rounded/btnNext.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_rounded\\btnNext.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\btnPrevious.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\btnPrevious.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_rounded/btnPrevious.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_rounded\\btnPrevious.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\default_thumbnail.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\default_thumbnail.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_rounded/default_thumbnail.gif",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_rounded\\default_thumbnail.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_rounded/loader.gif",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_rounded\\loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\sprite.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_rounded\\sprite.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_rounded/sprite.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_rounded\\sprite.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\btnNext.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\btnNext.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_square/btnNext.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_square\\btnNext.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\btnPrevious.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\btnPrevious.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_square/btnPrevious.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_square\\btnPrevious.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\default_thumbnail.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\default_thumbnail.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_square/default_thumbnail.gif",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_square\\default_thumbnail.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\loader.gif",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\loader.gif",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_square/loader.gif",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_square\\loader.gif"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\sprite.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\prettyphoto\\light_square\\sprite.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/prettyphoto/light_square/sprite.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prettyphoto\\light_square\\sprite.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\price.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\price.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/price.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\price.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\ptn-bg.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\ptn-bg.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/ptn-bg.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ptn-bg.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-bg.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-bg.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-bg.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-bg.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon1.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon1.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-icon1.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-icon1.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon2.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon2.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-icon2.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-icon2.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon3.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon3.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-icon3.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-icon3.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon4.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon4.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-icon4.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-icon4.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon5.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon5.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-icon5.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-icon5.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon6.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\service-icon6.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/service-icon6.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\service-icon6.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-01.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-01.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/slider-01.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-01.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-02.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-02.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/slider-02.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-02.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-03.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-03.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/slider-03.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-03.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-bg.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\slider-bg.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/slider-bg.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-bg.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\tag-line.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\tag-line.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/tag-line.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tag-line.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\testi_01.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\testi_01.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/testi_01.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testi_01.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\testi_02.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\testi_02.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/testi_02.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testi_02.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\testi_03.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\testi_03.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/testi_03.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testi_03.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\unrwa-logo-0DB0E000FE-seeklogo.com.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\unrwa-logo-0DB0E000FE-seeklogo.com.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/unrwa-logo-0DB0E000FE-seeklogo.com.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\unrwa-logo-0DB0E000FE-seeklogo.com.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\user.jpg",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\user.jpg",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/user.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.jpg"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\user-color-64.png",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\images\\user-color-64.png",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "images/user-color-64.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user-color-64.png"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\all.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\all.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/all.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\js\\all.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\browse medicine.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\browse medicine.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/browse medicine.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\js\\browse medicine.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\contact-form-script.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\contact-form-script.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/contact-form-script.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact-form-script.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\custom.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\d1.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\d1.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/d1.js",
       "AssetKind": "All",
@@ -2227,12 +2227,12 @@
       "OriginalItemSpec": "wwwroot\\js\\d1.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\Doctor\\nextAppointment.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\Doctor\\TheNextAppointment.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
-      "RelativePath": "js/Doctor/nextAppointment.js",
+      "RelativePath": "js/Doctor/TheNextAppointment.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2241,13 +2241,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Doctor\\nextAppointment.js"
+      "OriginalItemSpec": "wwwroot\\js\\Doctor\\TheNextAppointment.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\form-validator.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\form-validator.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/form-validator.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\js\\form-validator.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\Home\\login.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\Home\\login.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/Home/login.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Home\\login.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\Home\\loginValidation.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\Home\\loginValidation.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/Home/loginValidation.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Home\\loginValidation.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\images-loded.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\images-loded.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/images-loded.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\js\\images-loded.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\isotope.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\isotope.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/isotope.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\jquery.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\jquery.pogo-slider.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\jquery.pogo-slider.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/jquery.pogo-slider.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.pogo-slider.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\main.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\modernizer.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\modernizer.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/modernizer.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizer.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\popper.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\QUEUE.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\QUEUE.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/QUEUE.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\js\\QUEUE.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\responsiveslides.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\responsiveslides.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/responsiveslides.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\js\\responsiveslides.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\site.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\slider-index.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\slider-index.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/slider-index.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider-index.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\smoothscroll.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\smoothscroll.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/smoothscroll.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\js\\smoothscroll.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\TweenMax.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\js\\TweenMax.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "js/TweenMax.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\js\\TweenMax.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\style.css",
       "SourceId": "UNRWAHealthProgramme",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\wwwroot\\",
       "BasePath": "_content/UNRWAHealthProgramme",
       "RelativePath": "style.css",
       "AssetKind": "All",

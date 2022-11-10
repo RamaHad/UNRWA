@@ -12,3 +12,17 @@ E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.pdb
 E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
 E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
 E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\github-project\UNRWA\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll

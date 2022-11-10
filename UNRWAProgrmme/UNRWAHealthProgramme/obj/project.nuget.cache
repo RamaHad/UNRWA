@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mZFFU5KOR3z1jfCSgtHavEh5uMMBNmtZhftSnvXTh0fxXBYgVEtRq0ChxKx61z30k+fTmj93G3lgsZkmTWhrQ==",
+  "dgSpecHash": "6EZHqF0n2lsSRYU5Zjn2I9cH7wMEvnd653jQH7xVg7B2S8cVWaBENypf5jXwihxVzzkN+Z/vAITFaCR01ei0kQ==",
   "success": true,
-  "projectFilePath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\UNRWAHealthProgramme\\UNRWAHealthProgramme.csproj",
+  "projectFilePath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\UNRWAHealthProgramme\\UNRWAHealthProgramme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\العبه جي\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\العبه جي\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

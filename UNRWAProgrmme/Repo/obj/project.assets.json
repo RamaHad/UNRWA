@@ -2645,11 +2645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Repo\\Repo.csproj",
+      "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Repo\\Repo.csproj",
       "projectName": "Repo",
-      "projectPath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Repo\\Repo.csproj",
+      "projectPath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Repo\\Repo.csproj",
       "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
-      "outputPath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Repo\\obj\\",
+      "outputPath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2666,11 +2666,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\BackEnd\\BackEnd.csproj": {
-              "projectPath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\BackEnd\\BackEnd.csproj"
+            "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\BackEnd\\BackEnd.csproj": {
+              "projectPath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\BackEnd\\BackEnd.csproj"
             },
-            "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\IRepo\\IRepo.csproj": {
-              "projectPath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\IRepo\\IRepo.csproj"
+            "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\IRepo\\IRepo.csproj": {
+              "projectPath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\IRepo\\IRepo.csproj"
             }
           }
         }

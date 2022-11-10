@@ -46,8 +46,11 @@ namespace UNRWAHealthProgramme.Controllers
         {
             var user = await userManager.GetUserAsync(User);
             var result = appointmentIRepo.GetNextAppointment(context, user.Id, employeeIRepo);
-            
-            return Ok(result);
+            return Json(new
+            {
+                name = result.IndividualName,
+                time = result.DateOfReservation.Hour +":" +result.DateOfReservation.Minute
+            });
         }
     }
 }

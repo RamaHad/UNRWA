@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Dto\\Dto.csproj",
+      "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Dto\\Dto.csproj",
       "projectName": "Dto",
-      "projectPath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Dto\\Dto.csproj",
+      "projectPath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Dto\\Dto.csproj",
       "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
-      "outputPath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\Dto\\obj\\",
+      "outputPath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\Dto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",

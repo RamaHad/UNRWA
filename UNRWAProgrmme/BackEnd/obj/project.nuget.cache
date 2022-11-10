@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iUbMEUKPfyJLeEajVpW6+BO/ZjFu2UJAQdoHDxkyX9qq3HD4uc6g6AuaIQruRL62NqAONnznK3AFzLRwdJAtFg==",
+  "dgSpecHash": "41iSZDZ/IJtNTQ3bdVlMoIyLXcuSXRDWfrNvR3ecA+uPA31YEXH/KxFL9D8aIz9yrOUHnbvCKaSOzBLbj0jXKw==",
   "success": true,
-  "projectFilePath": "E:\\MyWorks\\Back-End\\UNRWAProgrmme\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\العبه جي\\Desktop\\github-project\\UNRWA\\UNRWAProgrmme\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\العبه جي\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\العبه جي\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
