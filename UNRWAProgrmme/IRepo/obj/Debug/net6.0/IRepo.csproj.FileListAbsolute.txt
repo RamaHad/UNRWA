@@ -1,0 +1,17 @@
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\IRepo.deps.json
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\IRepo.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\IRepo.pdb
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\Dto.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\Dto.pdb
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.csproj.AssemblyReference.cache
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.AssemblyInfoInputs.cache
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.AssemblyInfo.cs
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.csproj.CoreCompileInputs.cache
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.csproj.CopyComplete
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\refint\IRepo.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\IRepo.pdb
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\obj\Debug\net6.0\ref\IRepo.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\BackEnd.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\IRepo\bin\Debug\net6.0\BackEnd.pdb

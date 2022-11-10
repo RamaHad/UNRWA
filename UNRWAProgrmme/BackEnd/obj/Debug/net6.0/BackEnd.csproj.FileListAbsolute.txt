@@ -1,0 +1,14 @@
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+E:\MyWorks\Back-End\UNRWAProgrmme\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache

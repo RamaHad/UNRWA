@@ -1,0 +1,119 @@
+﻿@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+@inject UserIRepo UserRepo
+@model QueueDto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        
+
+<!------ Include the above in your HEAD tag ----------> 
+
+    <title>Document</title>
+       <link rel="stylesheet" href="~/css/Queue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      <link href='http://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' rel="stylesheet" id="bootstrap-css">
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+       
+
+</head>
+<body>
+
+    <!--nav-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #1d86df; height: 3.5rem;">
+        <a class="navbar-brand text-center" href="#">
+             <img src="~/images/user.jpg" alt="logo" class="img1 img-fluid">
+             <span class="logo__name">@UserRepo.FindUserName(UserManager.GetUserAsync(User).Result.Id).FirstName</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse " id="navbarNavDropdown" style="background-color: #1d86df;">
+          <ul class="navbar-nav" style="background-color: #1d86df; ">
+            <li class="nav-item active" style="display: flex;">
+              <a class="nav-link" asp-action="Logout" asp-controller="UsersManager">log out</a>
+              <a class="nav-link"  style="margin-left: 10px;" asp-action="Index" asp-controller="Doctor">Home</a>
+            </li>
+        
+          </ul>
+        </div>
+       
+        <div class="nav__icons">
+            <img src="~/images/unrwa-logo-0DB0E000FE-seeklogo.com.png" alt="logo" class=" img__1 img-fluid">
+        </div>
+
+
+      </nav>
+
+    <div class="container" style="color: #1d86df;  margin-top: 7rem;">
+        <div class="row">
+            <label class="form-group">
+                <span style="color: a#1d86df; font-weight: 600; " >Number previews:</span>
+                <span type="text" class="form-control" style="background-color: #fff;">@Model.AppointmentsInQueue.Count</span>
+            
+           
+            </label>
+        <table id="example" class="table table-bordered" style="width:100%">
+            <thead>
+                <tr>
+                  
+                    <th> Person Number</th>
+                    <th> Person Name</th>
+                    <th> Service Type</th>
+                    <th style="width: 20%;">Date</th>
+                    <th style="width: 30%;">Action</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+             @foreach (var item in Model.AppointmentsInQueue)
+                    {
+                        if(item.Status == 2) //quick
+                        {
+                              <tr>
+                 
+          
+                    <td style="color:red">@item.IndividualId</td>
+                    <td  style="color:red">@item.IndividualName</td>
+                    <td style="color:red">Quick</td>
+                    <td  style="color:red">@item.DateOfReservation</td>
+                    <td>  <a href="" target="_blank" data-scroll class="btn btn-light btn-radius button_1 btn-brd grd1 effect-1">Create a preview </a>
+                        <a href="" target="_blank" data-scroll class="btn btn-light btn-radius button_1 btn-brd grd1 effect-1">Delete  <i class='bx bx-trash'></i></a>
+                        </td>
+                            </tr>
+                        }
+                        else
+                        {
+                              <tr>
+                 
+          
+                    <td>@item.IndividualId</td>
+                    <td>@item.IndividualName</td>
+                    <td>@item.ServiceName</td>
+                    <td>@item.DateOfReservation</td>
+                    <td>  <a href="" target="_blank" data-scroll class="btn btn-light btn-radius button_1 btn-brd grd1 effect-1">Create a preview </a>
+                        <a href="" target="_blank" data-scroll class="btn btn-light btn-radius button_1 btn-brd grd1 effect-1">Delete  <i class='bx bx-trash'></i></a>
+                        </td>
+                </tr>
+                        }
+                    }
+                </tbody>
+                </table>
+</div>
+</div>
+
+ <script src="~/js/QUEUE.js"></script>
+</body>
+</html>
+   

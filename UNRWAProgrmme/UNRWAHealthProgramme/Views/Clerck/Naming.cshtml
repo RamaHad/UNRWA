@@ -1,0 +1,243 @@
+﻿@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+@inject UserIRepo UserRepo
+@inject IndividualIRepo individualRepo
+@using Dto.ViewDto
+@model NamingDto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="~/css/naming.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" /> 
+
+    <title>naming</title>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #1d86df; height: 3.5rem;">
+    <a class="navbar-brand text-center" href="#">
+        <img src="~/images/user-color-64.png" alt="logo" class="img1 img-fluid">
+            <span class="logo__name">@UserRepo.FindUserName(UserManager.GetUserAsync(User).Result.Id).FirstName</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse " id="navbarNavDropdown" style="background-color: #1d86df;">
+      <ul class="navbar-nav" style="background-color: #1d86df; ">
+        <li class="nav-item active" style="
+display:flex">
+              <a class="nav-link" asp-action="Logout" asp-controller="UsersManager">log out</a>
+                 <a  class="nav-link" asp-action="Index" asp-controller="Clerck" type="button" >Back</a>
+  
+        </li>
+    
+      </ul>
+    </div>
+   
+    <div class="nav__icons">
+        <img src="~/images/unrwa-logo-0DB0E000FE-seeklogo.com.png" alt="logo" class=" img__1 img-fluid">
+    </div>
+
+
+  </nav>
+    @if ( TempData["EditIndividualSuccess"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js">  </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        <script type="text/javascript">
+        toastr.success('@TempData["EditIndividualSuccess"]');
+        </script>
+    }
+     @if (TempData["EditIndividualFaild"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js">  </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        <script type="text/javascript">
+        toastr.error('@TempData["EditIndividualFaild"]');
+        </script>
+    }
+    <div class="container" >
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-ms-12">
+
+        <h1 class="form-title">Naming</h1>
+  
+  
+        <form method="post">
+  
+  
+          <div class="main-user-info">
+  
+  
+            <div class="user-input-box">
+  
+  
+              <label for="fullName">Full Name</label>
+             <input type="text"  readonly  placeholder="Enter Full Name" asp-for="FullName"/>
+  
+  
+            </div>
+  
+  
+            <div class="user-input-box">
+  
+  
+              <label for="fullName">Naming : @Model.Naming</label>
+  
+           <!--save individuaId-->
+           <input type="hidden" asp-for="IndividualId" value="@Model.IndividualId"/>
+
+              <input type="text" style="text-align: right;" id="fullName" asp-for="Naming"  value=" "/>
+  
+  
+            </div>
+  
+            <div class="user-input-box">
+  
+  
+              <label for=""> Address</label>
+  
+  
+              <input type="text"    readonly placeholder="Enter Home adress" asp-for="Address"/>
+  
+  
+            </div>
+  
+  
+            <div class="user-input-box">
+  
+  
+              <label for="">Phone Number : @Model.PhoneNumber</label>
+  
+  
+              <input type="text" placeholder="Enter Phone Number" asp-for="PhoneNumber"/>
+  
+
+            </div>
+  
+  
+            <div class="user-input-box">
+  
+  
+              <label >Study level : @Model.StudyLevelName</label>
+  
+              <select  asp-for="NewStudyLevelId" asp-items="@(new SelectList(@Model.studeyLevels,"Id","Name"))"
+                  class="form-select" aria-label="Default select example" style="width: 95%;height: 40px;" >
+                <option selected value="@Model.OldStudyLevelId"></option>
+              
+              </select>
+            </div>
+  
+  
+            <div class="user-input-box">
+  
+  
+              <label >RelationShip : @Model.RelationshipName</label>
+  
+  
+              <select  asp-for="NewRelationshipId"  asp-items="@(new SelectList(@Model.relatioships,"Id","Name"))" 
+                  class="form-select" aria-label="Default select example" style="width: 95%; height: 40px;">
+                <option selected value="@Model.OldRelationshipId"></option>
+               
+              </select>
+  
+            </div>
+  
+  
+          </div>
+  
+  <div class="row">
+    <div class="col-lg-6 col-md-6 col-ms-6">
+          <div class="gender-details-box">
+  
+  
+            <span class="gender-title">Gender</span>
+  
+  
+            <div class="gender-category">
+                
+                  @if(@Model.Gender == false )
+                                    {
+                   <input type="radio" asp-for="Gender" value="false" checked>
+                    <label asp-for="Gender">Male</label>
+
+                       <input type="radio" asp-for="Gender" value="true">
+                                        <label asp-for="Gender" >Famale</label>
+                                    }
+                                    else
+                                    {
+                                        <input type="radio" asp-for="Gender" value="false" >
+                    <label asp-for="Gender">Male</label>
+
+                       <input type="radio" asp-for="Gender" value="true" checked>
+                                        <label asp-for="Gender" >Famale</label>
+                                    }
+
+                
+            </div>
+  
+  </div>
+          </div>
+          <div class="col-lg-6 col-md-6 col-ms-6">
+          <div class="gender-details-box" >
+  
+  
+            <span class="gender-title">Marital status</span>
+  
+  
+            <div class="gender-category">
+  
+  
+             @if(@Model.MaritalStatus == false ) // false for single
+                                    {
+                   <input type="radio" asp-for="MaritalStatus" value="false" >
+                    <label asp-for="MaritalStatus">Single</label>
+
+                       <input type="radio" asp-for="MaritalStatus" value="true" >
+                                        <label asp-for="MaritalStatus" >Married</label>
+                                    }
+                                    else
+                                    {
+                                        <input type="radio" asp-for="MaritalStatus" value="false" >
+                    <label asp-for="MaritalStatus">Single</label>
+
+                       <input type="radio" asp-for="MaritalStatus" value="true" checked>
+                                        <label asp-for="MaritalStatus" >Married</label>
+                                    }
+  
+  
+  </div>
+  
+            </div>
+  
+  
+          </div>
+        </div>
+  
+          <div class="form-submit-btn">
+  
+  
+            <button type="submit" asp-action="EditIndividual" asp-controller="Clerck">Save</button>
+           
+  
+          </div>
+  
+  
+        </form>
+  
+  </div>
+      </div>
+    </div>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
+@section Scripts{
+      <partial name="_ValidationScriptsPartial">
+
+}

@@ -1,0 +1,201 @@
+﻿
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+@inject UserIRepo UserRepo
+@model SearchDto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/searchStyle.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>search</title>
+</head>
+<body >
+  
+    
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #1d86df; height: 3.5rem;">
+        <a class="navbar-brand text-center" href="#">
+            <img src="~/images/user-color-64.png" alt="logo" class="img1 img-fluid">
+            <span class="logo__name">@UserRepo.FindUserName(UserManager.GetUserAsync(User).Result.Id).FirstName</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse " id="navbarNavDropdown" style="background-color: #1d86df;">
+          <ul class="navbar-nav" style="background-color: #1d86df; ">
+            <li class="nav-item active">
+               <a class="nav-link" asp-action="Logout" asp-controller="UsersManager">log out</a>
+            </li>
+        
+          </ul>
+        </div>
+       
+        <div class="nav__icons">
+            <img src="~/images/unrwa-logo-0DB0E000FE-seeklogo.com.png" alt="logo" class=" img__1 img-fluid">
+        </div>
+
+
+      </nav>
+    <form class="card" method="post">
+    <div class="container">
+<div class="row">
+
+    <div class="col-md-12 col-lg-6 col-ms-12">
+        <div class="CardInner">
+        <label>RCN:</label>
+        <div class="box">
+     
+          <div class="InputContainer">
+            <input placeholder="search" asp-for="IndividualId"/>
+       
+        </div>
+    
+            <button type="submit" class="btn btn-primary Icon" asp-action="SearchByIndividualId" asp-controller="Clerck"><i class='bx bx-search-alt-2' style='color:#1d86df ;font-size: 30px;'  ></i></button>
+
+         
+       </div>
+       </div>
+      </div>  
+      <div class="col-md-12 col-lg-6 col-ms-12">
+        <div class="CardInner">
+        <label>RRIS Family ID: </label>
+        <div class="box">
+     
+          <div class="InputContainer">
+            <input placeholder="search" asp-for="familyCard"/>
+       
+        </div>
+    
+            <button type="submit" class="btn btn-primary Icon" asp-action="SearchByFamilyCard" asp-controller="Clerck" ><i class='bx bx-search-alt-2' style='color:#1d86df ;font-size: 30px;'  ></i></button>
+
+         
+       </div>
+       </div>
+      </div>  
+    
+       <div class="col-md-12 col-lg-6 col-ms-12">
+        <div class="CardInner">
+        <label>NCD ID: </label>
+        <div class="box">
+     
+          <div class="InputContainer">
+            <input placeholder="search" asp-for="NCDNumber"/>
+       
+        </div>
+    
+            <button type="submit" class="btn btn-primary Icon" asp-action="SearchByNCDNumber" asp-controller="Clerck" ><i class='bx bx-search-alt-2' style='color:#1d86df ;font-size: 30px;'  ></i></button>
+
+         
+       </div>
+       </div>
+      </div>  
+      <div class="col-md-12 col-lg-6 col-ms-12">
+        <div class="CardInner">
+        <label>CHR ID: </label>
+        <div class="box">
+     
+          <div class="InputContainer">
+            <input placeholder="search" asp-for="CHRNumber"/>
+       
+        </div>
+    
+            <button type="submit" class="btn btn-primary Icon" asp-action="SearchByCHRNumber" asp-controller="Clerck"><i class='bx bx-search-alt-2' style='color:#1d86df ;font-size: 30px;'  ></i></button>
+
+         
+       </div>
+       </div>
+ 
+</div>
+
+
+
+    </div>
+</div>    
+</form>
+<div>
+<h1 class="header">search result:</h1>
+</div>
+<div class="table_box">
+<table class="table">
+    <thead>
+        <tr>
+         <th style="width: 10%;" class="head">Id</th>
+
+         <th  style="width: 10%;"  class="head">Name</th>
+        
+         <th style="width: 10%;"  class="head">Gender</th>
+         <th style="width: 10%;"  class="head">Relationship</th>
+         <th style="width: 10%;"  class="head">NCD Card</th>
+         <th style="width: 10%;"  class="head">CHR Card</th>
+         <th style="width: 10%;"  class="head">Family Card</th>
+         <th style="width: 50%;"  class="head">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+         
+               @foreach (var item in Model.individualDtos) 
+               {
+                 <tr>
+                        @if(@item.ID !=0)
+                        {
+                            <td>@item.ID</td>
+                        }
+                        else
+                        {
+                            <td></td>
+                        }
+                        <td>@item.FirstName @item.FatherName @item.LastName</td>
+                       @if(@item.Gender==true && @item.ID != 0){
+                            <td>Female</td>
+                        }
+                        else if(@item.Gender==false && @item.ID != 0)
+                        {
+                            <td>Male</td>
+                        }
+                        else
+                        {
+                            <td></td>
+                        }
+                        <td>@item.Relationship</td>
+                  
+                        @if (@item.NCD != 0 && @item.ID != 0)
+                        {
+                              <td>@item.NCD</td>
+                        }
+                        else
+                        {
+                            <td></td>
+                        }
+                         @if (@item.CHR != 0 && @item.ID != 0)
+                        {
+                            <td>@item.CHR</td>
+                        }
+                        else
+                        {
+                            <td></td>
+                        }
+                   <td>@item.FamilyCard</td>
+                   <td>
+                    <a  data-scroll class="btn btn-light btn-radius button_1 btn-brd grd1 effect-1" asp-action="Naming" asp-controller="Clerck" asp-route-individualId="@item.ID">Edit  <i class='bx bx-edit-alt'></i></a>
+                    <a type="submit" data-scroll class="btn btn-light btn-radius button_1 btn-brd grd1 effect-1" asp-action="ManageAppointment" asp-controller="Clerck" asp-route-individiualId="@item.ID"  >Manage appointment <i class='bx bx-calendar-week'></i></a></td>
+                   
+                   </tr>
+               }       
+                
+      
+
+         
+    </tbody>
+  </table>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>
+ 
